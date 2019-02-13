@@ -1,0 +1,13 @@
+{
+  "name": "solkas-cool-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stephen Solka <stephen@upside.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  }
+}
