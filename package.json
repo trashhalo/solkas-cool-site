@@ -5,7 +5,7 @@
   "author": "Stephen Solka <stephen@upside.com>",
   "license": "MIT",
   "scripts": {
-    "start": "eleventy --serve"
+    "start": "eleventy --serve",
     "build": "eleventy"
   },
   "dependencies": {
